@@ -173,16 +173,15 @@ nav {
 }
 
 .about-text h1 {
-    font-size: 4em;
-    margin-bottom: 10px;
+    font-size: 1.5rem;
     color: #5C4033;
+    font-style: normal;
+    font-family: 'Dancing Script', cursive;
 }
 
 .about-text h2 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
+    font-size: 4em;
     color: #5C4033;
-    text-align: left;
 }
 
 .about-text p {
@@ -191,6 +190,13 @@ nav {
     font-size: 1.6em;
     color: #C4A484;
     text-align: justify;
+}
+
+.about-text h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #5C4033;
+    text-align: left;
 }
 
 /* Social Links */
@@ -219,9 +225,10 @@ nav {
 }
 
 #portfolio h1 {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #5C4033;
     font-style: normal;
+    font-family: 'Dancing Script', cursive;
 }
 
 #portfolio h2 {
@@ -272,9 +279,10 @@ nav {
 }
 
 #clients h1 {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #5C4033;
     font-style: normal;
+    font-family: 'Dancing Script', cursive;
 }
 
 #clients h2 {
@@ -323,6 +331,13 @@ nav {
 }
 
 #contact h1 {
+    font-size: 1.5rem;
+    color: #5C4033;
+    font-style: normal;
+    font-family: 'Dancing Script', cursive;
+}
+
+#contact h2 {
     font-size: 2.2rem;
     color: #5C4033;
 }
